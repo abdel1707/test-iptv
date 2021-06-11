@@ -193,8 +193,8 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/w9live-37153/hls/05.m3u8
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://yt3.ggpht.com/ytc/AAUvwnibQRmgTOnzFgFEY944tazF08jscO_35pye8T1c=s900-c-k-c0x00ffffff-no-rj" tvg-country="fr", TV 5+
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png", Al Jazeera Documentary
-https://edge-1192-ch-gv.filmon.com/live/3029.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d379c24f468dcc8b6124af69a8231d7c825563014fb83d8aef53585be5a4a92f5cd65247692bbfccc36fc1f575b1b0548c0154e5ddbdf4107d03b4ffb5254cbe5f95a4e47a9f1b6f464e0aa124e5d7e00b61092f31f7e2d1cf18b4cc99035e199e1e6cf00abf387fa9b0f8b03abb6bfc77ffbb0b551f369440
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_de_Nessma.png", Nessma Tv
+https://stream-07.ix7.dailymotion.com/sec(URBhp0zYv0oL3J-5svQBhmW_2z-_hu1_fETavlP7HuM)/dm/3/x7lmd4f/s/live-3.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png" group-title="Undefined",Rotana Cinema HD
 https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Rotana_khalijia_New.png", Rotana khalijia
