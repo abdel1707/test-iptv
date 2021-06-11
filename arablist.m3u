@@ -187,8 +187,8 @@ http://rt-france.secure.footprint.net/1107_2500Kb.m3u8?checkedby:iptvcat.com
 https://alchimie-sport-en-france-1-fr.samsung.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 type="stream" channelId="2128" group="Undefined" logo="https://static.epg.best/fr/M6.fr.png" tvg-country="UN", M6
 https://mmsiptv.com/live/m6/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 type="stream" channelId="2130" group="Undefined" logo="https://i.imgur.com/RUwN62I.jpg" tvg-country="UN", W9
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/w9live-37153/hls/05.m3u8
+#EXTINF:0 type="stream" channelId="2130" group="Undefined" logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg", Wataniya 1
+https://stream-04.dc3.dailymotion.com/sec(URBhp0zYv0oL3J-5svQBhmW_2z-_hu1_fETavlP7HuM)/dm/3/x7lmd4f/s/live-2.m3u8
 #EXTINF:0 type="stream" channelId="2135" group="Undefined" logo="https://i.imgur.com/qFLq6lE.png" tvg-country="FR;GR", TF1 Series Films
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FRANCE" logo="https://yt3.ggpht.com/ytc/AAUvwnibQRmgTOnzFgFEY944tazF08jscO_35pye8T1c=s900-c-k-c0x00ffffff-no-rj" tvg-country="fr", TV 5+
